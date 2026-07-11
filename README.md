@@ -14,3 +14,11 @@ INSTRUCTIONS FOR USE.
 Make sure you have a jailbroken PS3 (Hen/CFW) and also have multiman... put the GSC into the (BLUS/BLES) folder for the game (NPUB/NPEB) works too I tested myself... And into /USRDIR/SCRIPTS/... Then after that you need a Patched or debugged EBOOT.BIN for your region (example BLUS31011) AND MAKE SURE TO BACK UP YOUR ORIGINAL EBOOT.BIN OTHERWISE YOU MIGHT REGRET IT!!!
 
 After you put the GSC into the scripts and the moddified EBOOT.BIN into the USRDIR, Load up a game of tranzit and the bots should spawn "AS LONG AS YOUR HOST" and do what a regular player would do KILL or EE Steps. Finally if this Project Blows up i will allow the bots to be able to shoot tedd to piss him off too and add the other maps!
+
+-----------------------
+CONTROLS!!!
+-----------------------
+
+D-Pad up is Ping
+D-Pad down is cancel command
+plus their brains are smarter then me for sure 🤣🤣🤣
